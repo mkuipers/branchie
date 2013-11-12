@@ -1,0 +1,11 @@
+## TODO
+- Write serializers/deserializers
+- Gemify
+  - write gemspec
+  - Add installation git hooks
+- Create server for use on vpn
+- git commands
+  - git create-branch-set
+  - git update-branch-set
+  - git delete-branch-set
+  - git pull-branch-set
